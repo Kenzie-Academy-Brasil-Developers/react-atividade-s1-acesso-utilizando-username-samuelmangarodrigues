@@ -1,0 +1,46 @@
+* {
+  color: black;
+}
+
+.Inpt {
+  border: 1px solid white;
+  font-size: 25px;
+  border-radius: 5px;
+  margin: 10px;
+  font-family: "Oxygen", sans-serif;
+}
+.Inpt:hover {
+  border: 1px solid black;
+  transition: 0.5s;
+}
+.BtnsExit {
+  background-color: rgb(58, 19, 19);
+  color: grey;
+  border: 1px solid rgb(58, 19, 19);
+  border-radius: 3px;
+  font-size: 23px;
+}
+.BtnsExit:hover {
+  background-color: red;
+  color: white;
+  border-color: red;
+  transition: 0.3s;
+}
+.BtnsLog {
+  background-color: rgb(3, 31, 3);
+  color: grey;
+  border: 1px solid rgb(3, 31, 3);
+  border-radius: 3px;
+  font-size: 23px;
+}
+.BtnsLog:hover {
+  background-color: green;
+  color: white;
+  transition: 0.3s;
+}
+.Title {
+  color: rgb(0, 0, 148);
+}
+.TitleLog {
+  color: green;
+}
